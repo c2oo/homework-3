@@ -5,5 +5,5 @@
 ### 用法:    
     
     参数为： 地址 和 线程数 （有输入检查）
-    python filedown.py 'http://dldir1.qq.com/qqfile/qq/QQ7.1/14522/QQ7.1.exe' 4
+    python filedown.py 'http://dldir1.qq.com/qqfile/qq/QQ7.1/14522/QQ7.1.exe' 11
     
